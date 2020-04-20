@@ -10,6 +10,7 @@ body{
   width: 100%;
 }
 
+
 .wraper{
   width: 80%;
   margin: 0 auto;
@@ -18,27 +19,32 @@ nav{
   width: 100%;
   font-size: 20px;
 }
-.navbar-brand{
-  margin-right: 60%;
-}
-header div{
-	width: 100%;
+
+header {
+  width: 100%;
+  margin: 0 auto;
+
+	
+	
 }
 
 header div img{
 	width: 100%;
 }
-
-
 h2{
-  margin-top: 100px;
-  margin-bottom: 100px;
-  font-size: 30px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	font-size: 30px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	text-align: center;
+  
+  }
 
+.story h2{
+	margin-top: 60px;
 }
+
 p{
   margin-top: 0;
   margin-bottom: 100px;
